@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Modernizr-2.6.2" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Modernizr" />
+      <option name="frameworkVersion" value="2.6.2" />
+      <sourceFilesUrls>
+        <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.modernizr.com_downloads_modernizr-2.6.2.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.modernizr.com_downloads_modernizr-2.6.2.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="http://www.modernizr.com/docs" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>

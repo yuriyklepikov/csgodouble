@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4a4e511-6dce-4942-9fac-aaea3c780b5f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../book/.idea/php.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../book/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../book/app/view/help.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/csgodouble.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Modernizr_2_6_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/jQuery_2_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/jquery.tinysort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/jquery.tinysort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.charorder.jgz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.charorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.charorder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.jgz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/gruntTasks/cli.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/gruntTasks/extendDocs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/gruntTasks/extendMarkdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/gruntTasks/icomoon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/gruntTasks/renderPages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/jsdoc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/src-dev/js/phantomRenderDocs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/src/jquery.tinysort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/src/tinysort.charorder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/tinysort/src/tinysort.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/mine.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/deposit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/withdraw.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/readme.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-activate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/about.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/admin-ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/admin-footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/admin-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/admin-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/admin-post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/async-upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/credits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/about-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/about.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/admin-menu-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/admin-menu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/color-picker-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/color-picker-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/color-picker.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/color-picker.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/_admin.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/blue/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/blue/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/blue/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/blue/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/blue/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/coffee/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/coffee/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/coffee/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/coffee/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/coffee/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ectoplasm/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ectoplasm/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ectoplasm/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ectoplasm/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ectoplasm/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/light/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/light/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/light/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/light/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/light/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/midnight/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/midnight/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/midnight/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/midnight/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/midnight/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ocean/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ocean/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ocean/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ocean/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/ocean/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/sunrise/colors-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/sunrise/colors-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/sunrise/colors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/sunrise/colors.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/colors/sunrise/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/common-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-controls-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-controls-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-controls.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-controls.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-nav-menus-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-nav-menus-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-nav-menus.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-nav-menus.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-widgets-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-widgets-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/customize-widgets.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/dashboard-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/deprecated-media-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/deprecated-media-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/deprecated-media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/deprecated-media.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/edit-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/edit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/farbtastic-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/farbtastic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/forms-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/ie-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/ie-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/ie.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/install-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/install-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/install.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/install.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/l10n-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/l10n.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/list-tables-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/list-tables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/login-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/login-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/login.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/media-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/nav-menus-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/nav-menus.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/press-this-editor-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/press-this-editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/press-this-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/press-this-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/press-this.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/press-this.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/revisions-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/revisions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/site-icon-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/site-icon.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/themes-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/themes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/widgets-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/wp-admin-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/wp-admin-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/wp-admin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/css/wp-admin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/custom-background.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/customize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit-comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit-form-advanced.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit-form-comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit-link-form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit-tag-form.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/export.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/freedoms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-center-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-center.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-left-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-none-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-none.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-right-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/align-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/arrows-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/arrows.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/browser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/bubble_bg-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/bubble_bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/comment-grey-bubble-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/comment-grey-bubble.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/date-button-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/date-button.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/generic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/icons32-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/icons32-vs-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/icons32-vs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/icons32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/imgedit-icons-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/imgedit-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/list-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/marker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/mask.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/media-button-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/media-button-image.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/media-button-music.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/media-button-other.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/media-button-video.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/media-button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/menu-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/menu-vs-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/menu-vs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/menu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/post-formats-vs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/post-formats.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/post-formats32-vs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/post-formats32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/resize-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/resize-rtl-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/resize-rtl.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/resize.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/sort-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/sort.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/spinner-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/stars-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/stars.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/w-logo-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/w-logo-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/wheel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/wordpress-logo-white.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/wordpress-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/wordpress-logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/wpspin_light-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/wpspin_light.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/xit-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/xit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/images/yes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/import.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/admin-filters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/ajax-actions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/bookmark.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-ftp-pure.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-ftp-sockets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-ftp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-pclzip.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-walker-category-checklist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-walker-nav-menu-checklist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-walker-nav-menu-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-comments-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-filesystem-base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-filesystem-direct.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-filesystem-ftpext.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-filesystem-ftpsockets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-filesystem-ssh2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-importer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-internal-pointers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-links-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-media-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-ms-sites-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-ms-themes-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-ms-users-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-plugin-install-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-plugins-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-post-comments-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-posts-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-press-this.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-screen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-site-icon.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-terms-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-theme-install-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-themes-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-upgrader-skins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-upgrader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/class-wp-users-list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/continents-cities.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/credits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/dashboard.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/edit-tag-messages.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/export.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/file.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/image-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/import.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/list-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/meta-boxes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/misc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/ms-admin-filters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/ms-deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/ms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/nav-menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/network.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/noop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/plugin-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/revision.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/schema.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/screen.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/taxonomy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/theme-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/translation-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/update-core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/includes/widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/install-helper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/accordion.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/bookmarklet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/bookmarklet.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/color-picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/color-picker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/comment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/comment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/common.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/custom-background.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/custom-background.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/custom-header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/customize-controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/customize-controls.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/customize-nav-menus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/customize-nav-menus.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/customize-widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/customize-widgets.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/dashboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/dashboard.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/edit-comments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/edit-comments.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/editor-expand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/editor-expand.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/editor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/farbtastic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/gallery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/image-edit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/image-edit.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/inline-edit-post.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/inline-edit-post.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/inline-edit-tax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/inline-edit-tax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/iris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/language-chooser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/language-chooser.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/link.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/media-gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/media-gallery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/media-upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/media-upload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/media.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/nav-menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/nav-menu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/password-strength-meter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/password-strength-meter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/plugin-install.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/plugin-install.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/post.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/post.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/postbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/postbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/press-this.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/press-this.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/revisions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/revisions.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/set-post-thumbnail.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/set-post-thumbnail.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/svg-painter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/svg-painter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/tags-box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/tags-box.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/tags.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/tags.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/updates.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/updates.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/user-profile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/user-profile.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/user-suggest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/user-suggest.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/widgets.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/word-count.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/word-count.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/wp-fullscreen-stub.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/wp-fullscreen-stub.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/xfn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/js/xfn.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/link-add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/link-manager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/link-parse-opml.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/load-scripts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/load-styles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/maint/repair.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/media-new.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/media-upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/menu-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/moderation.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-delete-site.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-sites.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-themes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-upgrade-network.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/ms-users.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/my-sites.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/nav-menus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/about.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/credits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/freedoms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/plugin-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/plugin-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/plugins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/profile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/setup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/site-info.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/site-new.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/site-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/site-themes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/site-users.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/sites.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/theme-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/theme-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/themes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/update-core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/user-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/user-new.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/network/users.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-discussion.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-general.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-head.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-permalink.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-reading.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options-writing.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/plugin-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/plugin-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/plugins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/post-new.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/press-this.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/profile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/revision.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/setup-config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/theme-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/theme-install.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/themes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/tools.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/update-core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/upgrade-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/upgrade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/upload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user-new.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/about.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/credits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/freedoms.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/profile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/user/user-edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/users.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-admin/widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-blog-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-comments-post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-config-sample.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/admin-network-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/admin-network-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/admin-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/admin-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/continents-cities-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/continents-cities-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/plugins/akismet-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/plugins/akismet-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/themes/twentyfifteen-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/themes/twentyfifteen-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/themes/twentyfourteen-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/themes/twentyfourteen-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/themes/twentythirteen-ru_RU.mo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/languages/themes/twentythirteen-ru_RU.po" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/_inc/akismet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/_inc/akismet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/_inc/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/_inc/img/logo-full-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/akismet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/class.akismet-admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/class.akismet-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/class.akismet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/views/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/views/get.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/views/notice.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/views/start.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/views/stats.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/views/strict.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/akismet/wrapper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/hello.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/plugins/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/author-bio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/content-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/css/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/css/ie7.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/Genericons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/Genericons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/Genericons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/Genericons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/genericons/genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/js/color-scheme-control.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/js/customize-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/languages/twentyfifteen.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfifteen/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-aside.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-audio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-featured-post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-quote.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content-video.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/css/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/featured-content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/Genericons-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/font/genericons-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/genericons/genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/images/pattern-dark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/images/pattern-light.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/inc/customizer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/inc/featured-content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/inc/template-tags.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/inc/widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/js/customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/js/featured-content-admin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/js/keyboard-image-navigation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/js/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/languages/twentyfourteen.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/page-templates/contributors.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/page-templates/full-width.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/sidebar-content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/sidebar-footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentyfourteen/taxonomy-post_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/404.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/archive.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/author-bio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-aside.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-audio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-chat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-link.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-none.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-quote.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-status.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content-video.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/content.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/css/editor-style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/css/ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/COPYING.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/Genericons-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/font/genericons-regular-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/font/genericons-regular-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/font/genericons-regular-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/font/genericons-regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/genericons/genericons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/dotted-line-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/dotted-line-light-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/dotted-line-light.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/dotted-line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/headers/circle-thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/headers/circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/headers/diamond-thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/headers/diamond.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/headers/star-thumbnail.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/headers/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/search-icon-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/images/search-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/inc/back-compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/inc/custom-header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/js/html5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/js/theme-customizer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/languages/twentythirteen.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/sidebar-main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/tag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-content/themes/twentythirteen/taxonomy-post_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-cron.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/getid3.lib.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/getid3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/license.commercial.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio-video.asf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio-video.flv.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio-video.matroska.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio-video.quicktime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio-video.riff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio.ac3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio.dts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio.flac.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio.mp3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.audio.ogg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.tag.apetag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.tag.id3v1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.tag.id3v2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/module.tag.lyrics3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ID3/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Cache/Base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Cache/DB.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Cache/File.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Cache/Memcache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Cache/MySQL.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Caption.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Content/Type/Sniffer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Copyright.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Credit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Decode/HTML/Entities.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Enclosure.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/File.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/HTTP/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/IRI.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Locator.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Misc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Net/IPv6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Parse/Date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Rating.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Registry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Restriction.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Sanitize.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/Source.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/XML/Declaration/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/SimplePie/gzdecode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff/Engine/native.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff/Engine/shell.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff/Engine/string.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff/Engine/xdiff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff/Renderer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/Text/Diff/Renderer/inline.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/admin-bar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/atomlib.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/author-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/bookmark-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/bookmark.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/canonical.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/capabilities.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/category-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/certificates/ca-bundle.crt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-IXR.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-feed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-json.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-oembed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-phpass.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-phpmailer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-pop3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-simplepie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-smtp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-snoopy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-walker-category-dropdown.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-walker-category.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-walker-comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-walker-page-dropdown.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-walker-page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-admin-bar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-ajax-response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-comment-query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-manager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-nav-menus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-customize-widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-embed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-error.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-cookie.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-curl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-encoding.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-ixr-client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-proxy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-http-streams.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-image-editor-gd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-image-editor-imagick.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-image-editor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-meta-query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-network.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-oembed-controller.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-role.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-roles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-tax-query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-term.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-user-query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-walker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-widget-factory.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp-xmlrpc-server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class-wp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class.wp-dependencies.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class.wp-scripts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/class.wp-styles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/comment-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/comment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/compat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/cron.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/admin-bar-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/admin-bar-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/admin-bar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/admin-bar.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/buttons-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/buttons-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/buttons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/buttons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/customize-preview.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/customize-preview.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/dashicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/dashicons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/editor-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/editor-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/editor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/editor.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/jquery-ui-dialog-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/jquery-ui-dialog-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/jquery-ui-dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/jquery-ui-dialog.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/media-views-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/media-views-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/media-views.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/media-views.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-auth-check-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-auth-check-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-auth-check.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-auth-check.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-embed-template-ie.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-embed-template-ie.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-embed-template.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-embed-template.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-pointer-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-pointer-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-pointer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/css/wp-pointer.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-background-image-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-background-image-setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-color-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-cropped-image-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-filter-setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-header-image-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-header-image-setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-image-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-media-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-location-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-name-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menu-setting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-new-menu-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-new-menu-section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-sidebar-section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-site-icon-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-theme-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-themes-section.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-customize-upload-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-widget-area-customize-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/customize/class-wp-widget-form-customize-control.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/date.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/default-constants.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/default-filters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/default-widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/embed-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/embed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed-atom-comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed-atom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed-rdf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed-rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed-rss2-comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed-rss2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/feed.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/fonts/dashicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/fonts/dashicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/fonts/dashicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/fonts/dashicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/formatting.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/functions.wp-scripts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/functions.wp-styles.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/general-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/admin-bar-sprite-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/admin-bar-sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/arrow-pointer-blue-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/arrow-pointer-blue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/audio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/document.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/interactive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/spreadsheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/crystal/video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/down_arrow-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/down_arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/icon-pointer-flag-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/icon-pointer-flag.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/archive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/audio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/code.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/default.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/document.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/interactive.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/spreadsheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/media/video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/rss-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/rss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/frownie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_biggrin.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_confused.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_cool.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_cry.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_eek.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_evil.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_exclaim.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_idea.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_lol.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_mad.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_mrgreen.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_neutral.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_question.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_razz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_redface.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_rolleyes.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_sad.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_smile.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_surprised.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_twisted.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/icon_wink.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/mrgreen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/rolleyes.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/smilies/simple-smile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/spinner-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/spinner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/toggle-arrow-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/toggle-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/uploader-icons-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/uploader-icons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wlw/wp-comments.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wlw/wp-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wlw/wp-watermark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wpicons-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wpicons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wpspin-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/wpspin.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/xit-2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/images/xit.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/admin-bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/admin-bar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/autosave.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/autosave.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/backbone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/colorpicker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/colorpicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/comment-reply.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/comment-reply.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/crop/cropper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/crop/cropper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/crop/marqueeHoriz.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/crop/marqueeVert.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-base.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-loader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-models.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-preview-nav-menus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-preview-nav-menus.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-preview-widgets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-preview-widgets.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-preview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-preview.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-views.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/customize-views.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/heartbeat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/heartbeat.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/hoverIntent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/hoverIntent.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/imgareaselect/border-anim-h.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/imgareaselect/border-anim-v.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/imgareaselect/imgareaselect.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/imgareaselect/jquery.imgareaselect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jcrop/Jcrop.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jcrop/jquery.Jcrop.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jcrop/jquery.Jcrop.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery-migrate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.color.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.form.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.hotkeys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.hotkeys.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.query.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.schedule.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.serialize-object.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.table-hotkeys.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.table-hotkeys.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/jquery.ui.touch-punch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/suggest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/suggest.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/accordion.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/autocomplete.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/button.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/core.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/datepicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/dialog.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/draggable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/droppable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-blind.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-bounce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-clip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-drop.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-explode.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-fade.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-fold.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-highlight.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-puff.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-pulsate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-scale.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-shake.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-size.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-slide.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect-transfer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/effect.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/menu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/mouse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/position.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/progressbar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/resizable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/selectable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/selectmenu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/slider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/sortable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/spinner.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/tabs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/jquery/ui/widget.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/json2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/json2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/masonry.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mce-view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mce-view.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-audiovideo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-audiovideo.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-editor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-editor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-grid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-grid.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-models.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-models.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-views.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/media-views.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/bigplay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/bigplay.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/controls.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/controls.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/flashmediaelement.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/froogaloop.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/jumpforward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/mediaelement-and-player.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/mediaelementplayer.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/silverlightmediaelement.xap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/skipback.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/wp-mediaelement.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/wp-mediaelement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/mediaelement/wp-playlist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/handlers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/handlers.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/plupload.flash.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/plupload.full.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/plupload.silverlight.xap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/wp-plupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/plupload/wp-plupload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/quicktags.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/quicktags.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/shortcode.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/shortcode.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/handlers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/handlers.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/plugins/swfupload.cookies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/plugins/swfupload.queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/plugins/swfupload.speed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/plugins/swfupload.swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/swfupload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/swfupload/swfupload.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/thickbox/loadingAnimation.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/thickbox/macFFBgHack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/thickbox/thickbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/thickbox/thickbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/langs/wp-langs-en.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/charmap/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/charmap/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/colorpicker/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/compat3x/css/dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/compat3x/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/directionality/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/directionality/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/fullscreen/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/hr/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/hr/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/image/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/image/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/lists/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/lists/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/media/moxieplayer.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/media/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/media/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/paste/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/paste/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/tabfocus/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/textcolor/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/textcolor/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wordpress/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpautoresize/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpdialogs/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpeditimage/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpembed/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpembed/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpemoji/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpemoji/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpgallery/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wplink/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wplink/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wptextpattern/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpview/plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/plugins/wpview/plugin.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/content.inline.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/content.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/img/anchor.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/img/loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/img/object.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/img/trans.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/skin.ie7.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/lightgray/skin.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/audio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/dashicon-edit.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/dashicon-no.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/embedded.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/gallery-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/gallery.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/more-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/pagebreak-2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/pagebreak.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/playlist-audio.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/playlist-video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/images/video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/skins/wordpress/wp-content.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/themes/modern/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/themes/modern/theme.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/tiny_mce_popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/tinymce.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/utils/editable_selects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/utils/form_utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/utils/mctabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/utils/validate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/wp-tinymce.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tinymce/wp-tinymce.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tw-sack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/tw-sack.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/twemoji.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/twemoji.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/underscore.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/utils.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-a11y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-a11y.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-ajax-response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-ajax-response.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-auth-check.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-auth-check.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-backbone.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-backbone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-embed-template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-embed-template.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-embed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-embed.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-emoji-loader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-emoji-loader.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-emoji-release.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-emoji.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-emoji.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-list-revisions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-list-revisions.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-lists.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-lists.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-pointer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-pointer.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wp-util.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wpdialog.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wpdialog.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wplink.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/wplink.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/zxcvbn-async.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/zxcvbn-async.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/js/zxcvbn.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/kses.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/l10n.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/link-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/locale.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/media-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/media.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/meta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-blogs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-default-constants.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-default-filters.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-files.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/ms-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/nav-menu-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/nav-menu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/option.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pluggable-deprecated.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pluggable.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/plugin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pomo/entry.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pomo/mo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pomo/po.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pomo/streams.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/pomo/translations.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/post-formats.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/post-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/post-thumbnail-template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/query.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/byte_safe_strings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/cast_to_int.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/error_polyfill.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random_bytes_com_dotnet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random_bytes_dev_urandom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random_bytes_libsodium.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random_bytes_mcrypt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random_bytes_openssl.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/random_compat/random_int.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/registration-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/registration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rest-api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rest-api/class-wp-rest-request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rest-api/class-wp-rest-response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rest-api/class-wp-rest-server.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/revision.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rewrite.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rss-functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/script-loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/session.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/shortcodes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/taxonomy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/template-loader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/theme-compat/comments-popup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/theme-compat/comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/theme-compat/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/theme-compat/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/theme-compat/sidebar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/theme.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/version.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-nav-menu-widget.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-archives.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-calendar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-categories.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-links.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-meta.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-pages.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-recent-comments.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-recent-posts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-search.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-tag-cloud.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/widgets/class-wp-widget-text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/wlwmanifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/wp-db.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-includes/wp-diff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-links-opml.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-load.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-mail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-settings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-signup.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/wp-trackback.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../wordpress/xmlrpc.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fotobook.com/.idea/deployment.xml" afterPath="$PROJECT_DIR$/../fotobook.com/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fotobook.com/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../fotobook.com/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fotobook.com/css/application.css" afterPath="$PROJECT_DIR$/../fotobook.com/css/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../fotobook.com/js/pricecalc/app/app.js" afterPath="$PROJECT_DIR$/../fotobook.com/js/pricecalc/app/app.js" />
+    </list>
+    <ignored path="csgodouble.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="csgodouble" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Project Files" color="Green" />
+    <fileColor scope="Tests" color="Blue" />
+    <fileColor scope="Problems" color="Rose" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="bootbox.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/bootbox.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.9433962">
+              <caret line="3" column="8582" selection-start-line="3" selection-start-column="8582" selection-end-line="3" selection-end-column="8582" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="bower init" />
+      <command text="bower install tinysort" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/support.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/js/tinysort.js" />
+        <option value="$PROJECT_DIR$/js/new.js" />
+        <option value="$PROJECT_DIR$/js/jquery.dataTables.min.js" />
+        <option value="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
+        <option value="$PROJECT_DIR$/js/expanded.js" />
+        <option value="$PROJECT_DIR$/js/dataTables.bootstrap.js" />
+        <option value="$PROJECT_DIR$/js/bootbox.min.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path>C:\Users\arkat\AppData\Roaming\npm\bower.cmd</exe-path>
+    <config-path>C:\Bitnami\wampstack-5.5.30-0\apache2\htdocs\projects\csgodouble\bower.json</config-path>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgodouble" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgodouble" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="csgodouble" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\arkat\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4a4e511-6dce-4942-9fac-aaea3c780b5f" name="Default" comment="" />
+      <created>1452519359978</created>
+      <option name="number" value="Default" />
+      <updated>1452519359978</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1452519610779</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452519610779</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1932" height="1092" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13726513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/affiliates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deposit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/withdraw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/support.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rolls.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/tinysort/dist/tinysort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.207547">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/new.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.3113208">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+            <marker date="1452535064014" expanded="true" signature="7202:7235" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/tinysort.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6132076">
+          <caret line="27" column="529" selection-start-line="27" selection-start-column="529" selection-end-line="27" selection-end-column="529" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.dataTables.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="13.471698">
+          <caret line="4" column="66908" selection-start-line="4" selection-start-column="66908" selection-end-line="4" selection-end-column="66908" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9433962">
+          <caret line="3" column="95699" selection-start-line="3" selection-start-column="95699" selection-end-line="3" selection-end-column="95699" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029126214">
+          <caret line="13" column="56" selection-start-line="13" selection-start-column="56" selection-end-line="13" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dataTables.bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5660377">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootbox.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9433962">
+          <caret line="3" column="8582" selection-start-line="3" selection-start-column="8582" selection-end-line="3" selection-end-column="8582" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
